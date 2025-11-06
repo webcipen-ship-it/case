@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>cas</name>
+    <description/>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Adsız katman</name>
+      <Placemark>
+        <name>BİÇERMAN TİCARET</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            31.4470195,38.363346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CASELLI TREYLER</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            33.9826511,38.3040688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Adsız katman</name>
+      <Placemark>
+        <name>Çakıroğulları Tarım Makinaları</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGT5QebAAHm32TVEDbppHQ8PvcyBv_sinOH3pKCp2XglPXB3NXttKHWzANT6CYUjbdceaZmFmSXnl8S6Xeb53-oNOrvFtZXqp70Cho9zhqD_0oE0mnpJGfo3Xy5lh8Ykl4LGjuQ6y7Xjr1vmcvYLlAf9_ubENz4djJ5Q-ITrWG2SUh3OAZ-2f3Ze864rhd7_AxiaTMTDNfUcH7TGt6o38nffqTylBUPD-6HGzHqYBJ2gCYg-dbqr1RJtifs?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGT5QebAAHm32TVEDbppHQ8PvcyBv_sinOH3pKCp2XglPXB3NXttKHWzANT6CYUjbdceaZmFmSXnl8S6Xeb53-oNOrvFtZXqp70Cho9zhqD_0oE0mnpJGfo3Xy5lh8Ykl4LGjuQ6y7Xjr1vmcvYLlAf9_ubENz4djJ5Q-ITrWG2SUh3OAZ-2f3Ze864rhd7_AxiaTMTDNfUcH7TGt6o38nffqTylBUPD-6HGzHqYBJ2gCYg-dbqr1RJtifs?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            32.5245425,37.9102879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Adsız katman</name>
+    </Folder>
+    <Folder>
+      <name>Adsız katman</name>
+      <Placemark>
+        <name>SEVİNÇ TARIM MAKİNELERİ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            26.9056835,41.7766991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Adsız katman</name>
+      <Placemark>
+        <name>Hamit Usta Massey Ferguson Bayi</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            31.154557,40.8465483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Doğan Ticaret</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            31.0386416,39.3748777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Onur Tarım Araçları San. Tic. A.Ş.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.5531717,38.7511443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Adsız katman</name>
+      <Placemark>
+        <name>Çetinkaya Alet Ekipman Tarım Makinaları Hayvancılık San. Ve Tic. Ltd. Şti.</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.9263513,37.9894321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Adsız katman</name>
+      <Placemark>
+        <name>HARMAN TARIM HAYVANCILIK PROJE ZİRAAT MAKİNALARI</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            35.3913994,38.7512403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Astotal Tarım Van Şubesi</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            43.3745108,38.5101515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Landini Traktör Mardin Doksal Makina</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            40.5803218,37.1878118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halis Tarım Aletleri</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            37.432411,37.0853395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ekşi Tarım</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.0781688,37.3483877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Termo-kelkit Özer Petrol</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            39.514752,40.133625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KORUCULAR TARIM PLAZA</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            41.2912081,39.9489941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gökman</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            35.8888729,40.2989625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>YURTTAŞLAR MOTORLU ARAÇLAR - JOHN DEERE</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.8156352,39.7041436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hanedan Tarım. Hüseyin ALAN</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.8050377,39.7473244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Doğanlar Motorlu Araçlar</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            31.9188999,40.1613441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yüceer tarım</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.4999112,39.4374121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kubota traktörleri ankara ana bayiiToprak Traktör</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            32.1295541,39.5738752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Demir Otomotiv</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            41.5189734,38.7456228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MUSTAFA KOÇ</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.9923861,39.7254484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>YILDIZ KARDEŞLER TRAKTÖR VE TARIM MAKİNALARI</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            37.0647436,39.7567358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ERLAÇİN TARIM A.Ş</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.402123,39.347666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pirelli Lastikleri - Zara Öztürk</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            37.7572537,39.8983399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Adsız katman</name>
+      <Placemark>
+        <name>Işildar TARIM</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.7832339,37.3127841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Adsız katman</name>
+      <Placemark>
+        <name>Nalbantoğlu Tarım Aletleri</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            33.9893371,38.3611624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aydın Tarım</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            33.9142524,38.8693208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ECİK TARIM</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            33.915481,38.868842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NALBANTOĞLU TARIM nevşehir</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            34.6578248,38.5766931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tunçyürek Tarım Makina(1.ŞUBE)</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            34.1890443,39.1179688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
